@@ -1,5 +1,5 @@
 # AI_BackProp_Momentum_Assignment
-This repo contrains Matlab classifier code to classify Wine data set from UCI dataset, (using Backpropogation with Momentum technique)
+This repo contrains Matlab classifier code to classify Wine data set from UCI database, (using Backpropogation with Momentum technique)
 # Network Architecture
            1. Number of Input layers = 14
 
