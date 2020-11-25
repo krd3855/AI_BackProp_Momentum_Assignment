@@ -20,5 +20,15 @@ This repo contrains Matlab classifier code to classify Wine data set from UCI da
 Trainig Squared Error is 0.000041
 Number of misclassified output = 0
 
+# Steps to Run
+1. Clone the repo and add this folder to matlab path.
+2. Drag and drop "BackPropAlgorithm.m".
+3. This will automatically load, Normalize, Shuffle, Split and Train the Network.
+4. The weights are automatically saved as Weights.mat.
+5. TestingBackProp.m will be automatically launched when you call BackPropAlgorithm.m file (you can run it saperately after you run BackPropAlgorithm.m atlease once).
+6. This will automatically load the saved weights and use trainind data to predict the outputs and it will show number of misclassified classes(if any).
+
+Thank you.
+
 
 Author : Krihsna Satish D S.
